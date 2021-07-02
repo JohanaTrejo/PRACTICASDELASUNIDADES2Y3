@@ -1,0 +1,2 @@
+rootProject.name = "EVA3_12_LOOPER"
+include ':app'
